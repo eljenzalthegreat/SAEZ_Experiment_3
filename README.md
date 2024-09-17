@@ -12,6 +12,8 @@ This repository contains the code for Experiment 3 of the ECE2112 course, focusi
 Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter
 notebook in the dedicated submission bin.
 
+For this programming assignment, we must download the following file for us to do these problems: http://bit.ly/Cars_file
+
 ### Problem 1: Load and Display Data
 #### Objective: Load a CSV file into a pandas DataFrame and display the first and last five rows.
 
