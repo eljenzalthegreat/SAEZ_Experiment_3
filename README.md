@@ -52,5 +52,14 @@ Problem_2.py: Script for data extraction and analysis.
 ### Contact
 For any questions or feedback, please contact hopersaez@gmail.com
 
+## Personal Challenges I faced
+
+For problem 1, I didn't face any issues; the task was to display both the first and last five rows of the cars.csv file, which was straightforward.
+
+In problem 2, I encountered some challenges, especially with part A. I was uncertain whether I needed to display rows with odd-numbered indices or columns with odd numbers. After knowing that the goal was to show the first five rows with columns that have odd numbers, the remaining parts of the problem were relatively simple to handle.
+
+Lastly, I had some initial confusion with saving files as .py. When using the "Save Notebook As" option, it saved the entire notebook instead of just the individual. But after some research, I learned that I can save .py files directly using Jupyter notebook and not use other programming apps, which can be very hassle and time consuming.
+
 ### Acknowledgements
 Special thanks to the instructors and resources of the ECE2112 course for providing the foundational concepts.
+
