@@ -1,4 +1,4 @@
-# ECE2112 - Experiment 3
+# SAEZ_ECE2112 - Experiment 3
 ## Introduction to Data Analysis with Pandas
 
 ### Overview
