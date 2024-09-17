@@ -44,7 +44,9 @@ Ensure that cars.csv is located in the same directory as the scripts, or update 
 
 ### Files
 cars.csv: CSV file containing car data.
+
 Problem_1.py: Script for loading and displaying data.
+
 Problem_2.py: Script for data extraction and analysis.
 
 ### Contact
